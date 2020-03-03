@@ -11,10 +11,12 @@ nav a {
   padding: 10px;
   background: grey
 }
+
 figcaption{
   font-size: 14px;
   text-align: center
 }
+
 #featured-property p {
   width: 800px;
   text-align: center
